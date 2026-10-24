@@ -34,4 +34,4 @@ Seeded on 2026-10-24 from his own messages and quiz results. Focus on what he pr
 Low priority (exam-style, don't target unless he asks): inversion after negative adverbs, mandative subjunctive.
 
 ## Session log
-(date · words · clean/total · XP · notes)
+(date · words · clean/total · accuracy % · daily goal ✔/✘ · notes)
