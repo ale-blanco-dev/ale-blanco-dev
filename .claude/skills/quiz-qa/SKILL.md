@@ -7,6 +7,9 @@ description: Mandatory review gate for any English quiz, drill or exercise built
 
 The student lost trust because earlier quizzes shipped with a wrong answer key, an explanation that contradicted its own key, a sentence missing a word, a cue that looked like a verb to conjugate, "compare with item 13" references in a shuffled quiz, and items where native speakers would say the "wrong" option. This skill exists so that never happens again. Run all three steps every time, including after a "small" fix.
 
+## Quizzes are paused
+Since 2026-10-24 the student does not want quizzes; practice follows the `english-coach` skill (conversation, hidden targeting, gamification). Build a quiz only if he explicitly asks for one, and then this gate still applies.
+
 ## Student context (decides what counts as an error)
 - Goal: a QA/SDET job in English. Target is **C1, not perfection**. Prefer job-relevant English.
 - Do not test anything a native speaker commonly says both ways. Typical traps to avoid or rewrite:
