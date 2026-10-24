@@ -8,9 +8,10 @@
 - Words of the day collected: 0
 - Personal bests: none yet
 
-## Pending question (ask exactly this at the start of the next session)
+## Pending question (he asked to keep it: ask it word for word, unchanged, as the first message of the next session)
 "What game are you playing right now, or what's the last one you platinumed?"
-Follow-up to ask after his answer (targets #1 and #3): "How long did it take you, and which trophy was the hardest to get?"
+
+Only after he answers, as a separate follow-up (targets #1 and #3): "How long did it take you, and which trophy was the hardest to get?"
 
 ## Hidden tracker (priority order; count = times seen)
 Seeded on 2026-10-24 from his own messages and quiz results. Focus on what he produces when writing freely; exam-only items are low priority.

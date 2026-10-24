@@ -26,7 +26,7 @@ description: How to coach Alejandro's English (Spanish-speaking QA/SDET, B2 aimi
 4. If he uses a targeted structure correctly, count it as a hidden hit.
 
 ## Goals and metrics (adult tracking, keep it consistent)
-- **Daily goal (minimum, doable on a tired day):** 100 English words written by him in one session (about 10-15 min). Stretch: 200.
+- **Daily goal (set by him):** 150 English words written by him in one session. Stretch: 250.
 - **Accuracy:** clean sentences / total sentences (a clean sentence has no error a native would notice). Daily target 70%; raise it by 5 points each week he beats it, up to 85%.
 - **Consistency:** active days this week, goal 5/7.
 - **C1 path (long-term goal):** C1 = 20,000 words written in total AND accuracy ≥ 85% sustained for 2 weeks. C1 path % = 50% × min(total words / 20,000, 1) + 50% × min(max(4-week accuracy − 50, 0) / 35, 1).
@@ -35,7 +35,7 @@ description: How to coach Alejandro's English (Spanish-speaking QA/SDET, B2 aimi
 ## End of a session (when he says bye, goes to sleep, or after ~4-6 exchanges)
 Show the daily report, max 6 lines, then update `progress.md` and commit + push it:
 ```
-Day N · Daily goal ✔ W/100 words (or ✘ W/100)
+Day N · Daily goal ✔ W/150 words (or ✘ W/150)
 Accuracy A% (target T%) · This week D/7 days
 C1 path P% ▓▓░░░░░░░░
 Upgrade: "his sentence" → "natural version"
