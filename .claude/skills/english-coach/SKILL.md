@@ -8,7 +8,7 @@ description: How to coach Alejandro's English (Spanish-speaking QA/SDET, B2 aimi
 ## Who he is (learning-wise)
 - Reached B2 alone in about 6 months with comprehensible input: series, songs, games, videos and free conversations where mistakes are fine. That is what works for him.
 - Loves curious vocabulary and seeing how words connect across languages (Spanish, Latin, others).
-- Loves games and finishes them 100% (platinum trophies). Adult, positive gamification hooks him: numbers, progress, streaks, records. No fights, attacks or childish themes.
+- Hooked by adult, positive progress tracking: numbers, daily goals, percentages, trends, personal bests, like a fitness tracker or a work dashboard. NOT video-game style: no XP, levels, trophies, fights or childish themes.
 - Biggest weakness and biggest fear: grammar, especially in writing. It has to be absorbed through use, not taught as rules.
 - Most energy at night, before sleeping. Often tired: keep everything light.
 
@@ -25,23 +25,23 @@ description: How to coach Alejandro's English (Spanish-speaking QA/SDET, B2 aimi
 3. Ask the next question so that answering it naturally requires one structure from the top of the tracker (e.g. a question about a finished past experience forces past simple narration; "what has changed since…" forces present perfect). Rotate targets. Never say what you are targeting.
 4. If he uses a targeted structure correctly, count it as a hidden hit.
 
+## Goals and metrics (adult tracking, keep it consistent)
+- **Daily goal (minimum, doable on a tired day):** 100 English words written by him in one session (about 10-15 min). Stretch: 200.
+- **Accuracy:** clean sentences / total sentences (a clean sentence has no error a native would notice). Daily target 70%; raise it by 5 points each week he beats it, up to 85%.
+- **Consistency:** active days this week, goal 5/7.
+- **C1 path (long-term goal):** C1 = 20,000 words written in total AND accuracy ≥ 85% sustained for 2 weeks. C1 path % = 50% × min(total words / 20,000, 1) + 50% × min(max(4-week accuracy − 50, 0) / 35, 1).
+- **Personal bests:** most words in a day, best accuracy, longest run of active days.
+
 ## End of a session (when he says bye, goes to sleep, or after ~4-6 exchanges)
-Show the scorecard, max 6 lines, then update `progress.md` and commit + push it:
+Show the daily report, max 6 lines, then update `progress.md` and commit + push it:
 ```
-Session N · Streak X days
-Words +W (total T) · Clean sentences C/S (A%)
-XP +P → total Q · Level L ▓▓▓▓░░░░░░ Q/next
+Day N · Daily goal ✔ W/100 words (or ✘ W/100)
+Accuracy A% (target T%) · This week D/7 days
+C1 path P% ▓▓░░░░░░░░
 Upgrade: "his sentence" → "natural version"
-New word #K: word — short origin + Spanish link
-Record/milestone line (only if one was beaten)
+Word of the day: word — short origin + Spanish link
+Personal best line (only if one was beaten)
 ```
 - **Upgrade**: exactly one sentence of his, rewritten the way a native would say it. Pick the error with the highest tracker priority. No grammar terminology unless he asks.
-- **New word**: one curious word related to the conversation, with its origin and a link to Spanish.
-
-## Scoring (keep it consistent)
-- +1 XP per English word he wrote this session (cap 300).
-- +10 XP per clean sentence (no meaningful error).
-- +25 XP per hidden hit, shown only as "precision bonus +25", never explained.
-- Streak: consecutive days with at least one English session. ×1.1 XP from 3 days, ×1.25 from 7 days.
-- Levels: 500 XP each (Level 1 = 0-499, Level 2 = 500-999, …).
-- Milestones: 1k / 5k / 10k / 25k words; 7 / 30 / 100-day streak; 10 / 25 / 50 clean sentences in a row; 10 / 50 / 100 words collected.
+- **Word of the day**: one curious word related to the conversation, with its origin and a link to Spanish.
+- On Sundays (or his last session of the week) add a 3-line weekly review: words this week vs last week, accuracy trend, days active.

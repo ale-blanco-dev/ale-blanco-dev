@@ -1,12 +1,12 @@
 # Progress (coach only, do not show to the student)
 
-## Game state
-- Level: 1 · XP: 0 / 500
-- Streak: 0 days · Last session: none yet
-- Total words written: 0
-- Clean sentences: 0 / 0 · Best run of clean sentences: 0
-- Words collected: 0
-- Records: none yet
+## Metrics
+- Day count: 0 · Last session: none yet · This week: 0/7 days
+- Total words written: 0 / 20,000
+- Accuracy target: 70% · 4-week accuracy: n/a · Clean sentences: 0 / 0
+- C1 path: 0%
+- Words of the day collected: 0
+- Personal bests: none yet
 
 ## Pending question (ask exactly this at the start of the next session)
 "What game are you playing right now, or what's the last one you platinumed?"
