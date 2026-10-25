@@ -9,7 +9,7 @@
 - Personal bests: none yet
 
 ## Pending question
-Answered on 2026-10-25 (games: 9Kings on mobile chasing Google Play achievements; Switch games with girlfriend; RE5 co-op on PlayStation; Horizon Zero Dawn paused).
+Answered on 2026-10-25 (games: 9Kings on mobile chasing Google Play achievements; Switch party games; RE5 co-op on PlayStation; Horizon Zero Dawn paused).
 Asked next (targets #1 tense in a past story, #7 dropped "it"): "How far did you get in Horizon Zero Dawn before you had to stop? What was the best moment?"
 
 ## Hidden tracker (priority order; count = times seen)
